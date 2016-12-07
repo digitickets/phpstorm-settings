@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="asdf" type="PHP" />
+      <mapping pattern="03-digitickets-app" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="tfplan" type="PLAIN_TEXT" />
+      <mapping pattern="02 - old trigger" type="SQL" />
+      <mapping pattern=".htaccess2" type="htaccess" />
+      <mapping ext="j2" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>

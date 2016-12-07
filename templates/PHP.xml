@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="dd" value="echo '&lt;pre&gt;'; var_dump($END$); echo '&lt;/pre&gt;'; exit;" description="Dump out a variable" toReformat="false" toShortenFQNames="true">
+  <template name="vd" value="echo '&lt;pre&gt;'; var_dump($END$); echo '&lt;/pre&gt;'; exit;" description="Dump out a variable" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
